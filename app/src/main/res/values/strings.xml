@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RVTransportasi</string>
+
+    <string-array name="detail_transport">
+        <item>Bus adalah kendaraan besar beroda, digunakan untuk membawa penumpang dalam jumlah banyak. Istilah bus ini berasal dari bahasa Latin, </item>
+        <item>Kapal, adalah kendaraan pengangkut penumpang dan barang di laut (sungai dsb) seperti halnya sampan atau perahu yang lebih kecil. ... Secara kebiasaannya kapal dapat membawa perahu tetapi perahu tidak dapat membawa kapal.</item>
+        <item>Kereta adalah alat transportasi yang digunakan untuk mengangkut barang atau orang. Kereta digunakan untuk mengangkut barang, hasil pertanian atau kadang-kadang orang dari suatu tempat ke tempat lain. Kereta biasanya ditarik oleh kuda, bagal, lembu ataupun kendaraan lain semisal lokomotif. Kereta dapat ditarik oleh satu ekor atau beberapa ekor hewan.</item>
+        <item>Mobil adalah [kendaraan] darat yang digerakkan oleh tenaga mesin, beroda empat atau lebih (selalu genap), biasanya menggunakan bahan bakar minyak (bensin atau solar) untuk menghidupkan mesinnya. Mobil juga punya standar. Mobil kependekan dari otomobil yang berasal dari [bahasa Yunani] 'autos' (sendiri) dan Latin 'movére' (bergerak). Mobil juga punya standar seperti motor roda 2.</item>
+        <item>Sepeda motor adalah kendaraan beroda dua[1] yang digerakkan oleh sebuah mesin. Letak kedua roda sebaris lurus dan pada kecepatan tinggi sepeda motor tetap stabil disebabkan oleh gaya giroskopik. Sedangkan pada kecepatan rendah, kestabilan atau keseimbangan sepeda motor bergantung kepada pengaturan setang oleh pengendara. Penggunaan sepeda motor di Indonesia sangat populer karena harganya yang relatif murah, terjangkau untuk sebagian besar kalangan dan penggunaan bahan bakarnya serta serta biaya operasionalnya cukup hemat.</item>
+        <item>Sepeda (atau kereta angin) adalah kendaraan beroda dua atau tiga yang mempunyai setang, tempat duduk, dan sepasang pengayuh yang digerakkan kaki untuk menjalankannya.[</item>
+    </string-array>
+
+</resources>
